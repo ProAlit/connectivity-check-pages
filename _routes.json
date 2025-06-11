@@ -7,7 +7,7 @@
   "routes": [
     {
       "pattern": "/*",
-      "function": "dns-query"
+      "function": "[[catchall]]"
     }
   ]
 }
